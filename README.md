@@ -17,6 +17,15 @@
 - :zap: Завершил курс по разработке на C++ "Научно-образовательный центр МГТУ им. Н.Э. Баумана"
 
 
+### Технологии
+
+  <div id="badges">
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://i.ytimg.com/vi/sdNQEUwGt8Q/maxresdefault.jpg" width="40" height="40" alt="telegram group" />
+    </a>
+  </div>
+
+
 
 ### Социальные сети:
 
