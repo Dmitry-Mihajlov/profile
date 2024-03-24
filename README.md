@@ -24,7 +24,7 @@
       <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="40" height="40" alt="telegram group" />
     </a>
     <a href="https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170" target="_blank">
-      <img src="https://eos.shadrkvant.ru/pluginfile.php/360/course/overviewfiles/C%2B%2B.png" width="40" height="40" alt="telegram group" />
+      <img src="https://ucare.timepad.ru/80891a7a-d79b-4b47-a2d0-ed4fedac9634/poster_event_1487637.jpg" width="40" height="40" alt="telegram group" />
     </a>
    
   </div>
