@@ -21,7 +21,7 @@
 
   <div id="badges">
     <a href="https://www.python.org/" target="_blank">
-      <img src="https://i.ytimg.com/vi/sdNQEUwGt8Q/maxresdefault.jpg" width="40" height="40" alt="telegram group" />
+      <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="40" height="40" alt="telegram group" />
     </a>
   </div>
 
