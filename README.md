@@ -21,10 +21,10 @@
 
   <div id="badges">
     <a href="https://www.python.org/" target="_blank">
-      <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="40" height="40" alt="telegram group" />
+      <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="40" height="40" />
     </a>
     <a href="https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170" target="_blank">
-      <img src="https://ucare.timepad.ru/80891a7a-d79b-4b47-a2d0-ed4fedac9634/poster_event_1487637.jpg" width="40" height="40" alt="telegram group" />
+      <img src="https://ucare.timepad.ru/80891a7a-d79b-4b47-a2d0-ed4fedac9634/poster_event_1487637.jpg" width="40" height="40" />
     </a>
    
   </div>
@@ -36,10 +36,10 @@
 
   <div id="badges">
     <a href="https://t.me/mihajlov_dima" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" />
     </a>
     <a href="https://vk.com/mihajlov_dima" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" />
     </a>
   </div>
   
