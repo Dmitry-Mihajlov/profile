@@ -19,7 +19,7 @@
 
 ### Технологии
 
-  <div id="badges">
+  <div id="left">
     <a href="https://www.python.org/" target="_blank">
       <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="40" height="40" />
     <a href="https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170" target="_blank">
@@ -32,7 +32,7 @@
 
 ### Социальные сети:
 
-  <div id="badges">
+  <div id="left">
     <a href="https://t.me/mihajlov_dima" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" />
     <a href="https://vk.com/mihajlov_dima" target="_blank">
