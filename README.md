@@ -19,7 +19,7 @@
 
 ### Технологии
 
-  <div id="left">
+  <p align="left">
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="40" height="40" />
     <a href="https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170" target="_blank" rel="noreferrer">
