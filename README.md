@@ -28,7 +28,7 @@
 --------------------
 
 
-### Социальные сети:
+### :speech_balloon: Социальные сети:
 
 <p align="left">
 <a href="https://t.me/mihajlov_dima" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="JavaScript" /></a>    <a href="https://vk.com/mihajlov_dima" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="GNU Bash" /></a>
@@ -38,7 +38,7 @@
   
 --------------------
 
-### 💻 Codewars:
+### :coffee: 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Dmitry%20Mikhajlov/badges/large)
 --------------------
